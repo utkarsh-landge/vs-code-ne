@@ -1,0 +1,12 @@
+.heading{
+    color: red;
+    font: 30px "Comic Sans MS", Times, serif;
+    text-decoration-line: underline;  
+}
+
+.para{
+    color: black;
+    font: 20px Courier, Times, serif;
+    padding: 61.2px 0px;
+    margin: 0.5%;
+}

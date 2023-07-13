@@ -1,0 +1,6 @@
+.homescreen1{
+    height: auto;
+    width: 100%;
+    /* filter: blur(5px); */
+    filter: opacity(80%) ;
+}
